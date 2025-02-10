@@ -31,8 +31,7 @@ export default function StartupProject() {
                   : "project-card project-card-light"
               }
             >
-              <iframe className="project-iframe"
-                src="https://drive.google.com/file/d/1VgFdM3V-CLz9hELoDN9E5pZaAaCVh9jJ/preview" width="640" height="480" allow="autoplay"></iframe>
+              <iframe src="https://drive.google.com/file/d/1FR_4y_h90oW0KMISZ0OXLPcew5x_G3FY/preview" width="640" height="480" allow="autoplay"></iframe>
               <div className="project-detail">
                 <h5
                   className={isDark ? "dark-mode card-title" : "card-title"}
