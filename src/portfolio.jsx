@@ -26,8 +26,8 @@ const greeting = {
   subTitle: emoji(
     "A Game Developer 🎮 with experience in building immersive games and simulations using Unreal Engine, C++, Blueprints, and integrating gameplay mechanics, UI, AI, and multiplayer features with cutting-edge tools and frameworks. 🚀"
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1qDsgYA2ivl7ADAdjIXbmtYuWkOfVecVb/view?usp=drivesdk", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/1qQb5oJRLvXbDj4j31yo1j_1cC4WxBPaV/view?usp=drivesdk"
+    , // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
