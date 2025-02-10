@@ -13,6 +13,9 @@
   display: inline-block;
   margin-right: 20px;
   margin-bottom: 20px;
+    font-size: 16px;
+  font-weight: bold;
+  color: white;
 }
 
 .software-skill-inline > i {
@@ -24,7 +27,9 @@
 }
 .software-skill-inline > p {
   color: $subTitle;
-  font-size: 13px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
 }
 .software-skill-inline > i:hover ~ p {
   color: $skillsColor;
