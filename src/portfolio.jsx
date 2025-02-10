@@ -76,7 +76,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "INDORE INSTITUTE OF SCIENCE AND TECHNOLOGY, Indore",
-      logo: "https://indoreinstitute.com/wp-content/uploads/2021/10/iist-iip-iimr-logo2.png",
+      logo: require("./assets/images/iist.png"),
       subHeader: "Bachelor of Technology in Information Technology",
       duration: "2021 - 2025",
     },
